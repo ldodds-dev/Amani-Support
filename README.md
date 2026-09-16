@@ -1,13 +1,11 @@
-# AMANI Support
+# ΛMΛNI Support
 
-**Private by Default. Intelligent by Choice.**
+Welcome to the official public support hub for **ΛMΛNI**, browser and search platform.
 
-Welcome to the official public support hub for **AMANI**, a privacy-focused browser and search experience currently in active Beta development.
-
-Use this repository to report bugs, request improvements, document compatibility problems, and get help with AMANI on macOS, Windows, Linux, and the web.
+Use this repository to report bugs, request improvements, document compatibility problems, and get help with ΛMΛNI on macOS, Windows, Linux, and the web.
 
 > [!IMPORTANT]
-> AMANI is Beta software. Features, interfaces, compatibility, and system requirements may change as the product develops.
+> ΛMΛNI is Beta software. Features, interfaces, compatibility, and system requirements may change as the product develops.
 
 ## Quick links
 
@@ -38,8 +36,8 @@ This repository is intended for support and feedback. It does not provide public
 
 Please complete these checks first:
 
-1. Confirm that you are using the most recent AMANI Beta available from [amani-browser.com](https://amani-browser.com).
-2. Restart AMANI and, when appropriate, restart your device.
+1. Confirm that you are using the most recent ΛMΛNI Beta available from [amani-browser.com](https://amani-browser.com).
+2. Restart ΛMΛNI and, when appropriate, restart your device.
 3. Search the [existing issues](https://github.com/ldodds-dev/Amani-Support/issues) to see whether the problem has already been reported.
 4. Test whether the problem occurs consistently or only under a particular network, device, location, or account condition.
 5. Remove personal or sensitive information from screenshots, logs, addresses, searches, and filenames.
@@ -53,7 +51,7 @@ Open a [new issue](https://github.com/ldodds-dev/Amani-Support/issues/new) and i
 ### Required information
 
 - **Short summary:** A clear description of the problem
-- **AMANI version:** For example, `0.2.0-beta.2`
+- **ΛMΛNI version:** For example, `0.2.0-beta.2`
 - **Environment:** Website or desktop application
 - **Operating system:** Include the version and architecture when known
 - **Device:** Computer, phone, or tablet model when relevant
@@ -80,7 +78,7 @@ Open a [new issue](https://github.com/ldodds-dev/Amani-Support/issues/new) and i
 A concise explanation of the problem.
 
 ## Environment
-- AMANI version:
+- ΛMΛNI version:
 - Website or desktop:
 - Operating system:
 - Device/architecture:
@@ -110,14 +108,14 @@ Feature requests are welcome. Please describe:
 - The problem or limitation you are trying to solve
 - The user experience you would like to see
 - Why the change would be useful
-- Which platform or AMANI feature it affects
+- Which platform or ΛMΛNI feature it affects
 - Any privacy, accessibility, mobile, or compatibility considerations
 
 Please focus on the desired outcome rather than requiring one particular technical implementation.
 
 ## Installation and download support
 
-AMANI Beta installers are currently provided for:
+ΛMΛNI Beta installers are currently provided for:
 
 | Platform | Architecture | Package |
 | --- | --- | --- |
@@ -185,7 +183,7 @@ For Maps or navigation issues, include:
 - Whether the device had an active network connection
 
 > [!WARNING]
-> AMANI navigation features are under active development. Do not rely on Beta navigation as the sole source of safety-critical, emergency, road-closure, traffic, or routing information. Always follow posted signs, applicable law, and real-world conditions.
+> ΛMΛNI navigation features are under active development. Do not rely on Beta navigation as the sole source of safety-critical, emergency, road-closure, traffic, or routing information. Always follow posted signs, applicable law, and real-world conditions.
 
 ## Privacy when requesting support
 
@@ -209,7 +207,7 @@ Use GitHub's private vulnerability-reporting option through the repository's **S
 
 Security reports should identify:
 
-- Affected AMANI version and platform
+- Affected ΛMΛNI version and platform
 - The type and potential impact of the vulnerability
 - Whether exploitation requires local access, user interaction, or authentication
 - Reproduction details provided only through the private reporting channel
@@ -244,11 +242,11 @@ Issues may be edited, locked, or closed when they expose sensitive data, create 
 
 ## Frequently asked questions
 
-### Is AMANI production-ready?
+### Is ΛMΛNI production-ready?
 
 AMANI is currently in Beta. It is available for evaluation and feedback while features, compatibility, packaging, and documentation continue to mature.
 
-### Where should I download AMANI?
+### Where should I download ΛMΛNI?
 
 Use [amani-browser.com](https://amani-browser.com). Avoid installers shared through unofficial mirrors, messages, or third-party download sites.
 
@@ -270,4 +268,4 @@ Thank you for helping improve AMANI. Clear, reproducible reports make it easier 
 
 ---
 
-**AMANI** — *The Future of Browsing Starts Here.*
+**ΛMΛNI** — *The Future of Browsing Starts Here.*
