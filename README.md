@@ -11,10 +11,10 @@ Use this repository to report bugs, request improvements, document compatibility
 
 ## Quick links
 
-- **AMANI website:** [amani-browser.com](https://amani-browser.com)
+- **Website:** [amani-browser.com](https://amani-browser.com)
 - **View support requests:** [Amani-Support Issues](https://github.com/ldodds-dev/Amani-Support/issues)
 - **Report a problem:** [Open a new issue](https://github.com/ldodds-dev/Amani-Support/issues/new)
-- **Current Beta:** AMANI `v0.2.0-beta.2`
+- **Release:** AMANI `v0.2.0-beta.2`
 
 ## What this repository supports
 
@@ -89,7 +89,6 @@ A concise explanation of the problem.
 ## Steps to reproduce
 1.
 2.
-3.
 
 ## Expected behavior
 What should have happened?
@@ -162,6 +161,7 @@ For Ghost Mode issues, explain:
 - Whether history or session data remains after all Ghost Mode windows close
 - Whether the problem affects the background, search bar, disclaimer, tabs, or controls
 
+Ghost Mode is available on desktop version only. 
 Do not include private browsing history or sensitive search content in a public issue.
 
 ### World Time
