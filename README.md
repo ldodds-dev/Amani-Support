@@ -5,9 +5,8 @@
 Welcome to the official public support hub for **ΛMΛNI**, browser and search platform.
 
 [![Website](https://img.shields.io/badge/website-amani--browser.com-orange)](https://amani-browser.com)
-[![Version](https://img.shields.io/badge/version-v0.2.0--beta.2-orange)](https://amani-browser.com)
+[![Version](https://img.shields.io/badge/version-v0.2.0-orange)](https://amani-browser.com)
 ![Status](https://img.shields.io/badge/status-Active%20Beta-D4AF37)
-![Desktop](https://img.shields.io/badge/desktop-Electron%20%2F%20Chromium-47848F)
 ![Platforms](https://img.shields.io/badge/platforms-macOS%20ARM64%20%7C%20Windows%20x64%20%7C%20Linux%20AMD64-blue)
 [![Support](https://img.shields.io/badge/support-Open%20an%20Issue-2EA44F)](https://github.com/ldodds-dev/Amani-Support/issues/new)
 
