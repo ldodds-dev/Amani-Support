@@ -1,4 +1,3 @@
-<img width="503" height="69" alt="Screenshot 2026-09-19 at 8 32 25 PM" src="https://github.com/user-attachments/assets/6e6a6cda-286a-479f-94fc-405be8ad08e4" />
 # ΛMΛNI Support
 
 > **Built for Speed, Privacy, and Simplicity.**
