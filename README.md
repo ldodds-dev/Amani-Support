@@ -1,3 +1,4 @@
+<img width="503" height="69" alt="Screenshot 2026-09-19 at 8 32 25 PM" src="https://github.com/user-attachments/assets/6e6a6cda-286a-479f-94fc-405be8ad08e4" />
 # ΛMΛNI Support
 
 > **Built for Speed, Privacy, and Simplicity.**
@@ -269,4 +270,4 @@ Thank you for helping improve AMANI. Clear, reproducible reports make it easier 
 
 ---
 
-**ΛMΛNI** — *The Future of Browsing Starts Here.*
+<img width="538" height="65" alt="Screenshot 2026-09-19 at 8 33 06 PM" src="https://github.com/user-attachments/assets/e549ab9c-29ff-4416-859f-ce335ebc359e" />
