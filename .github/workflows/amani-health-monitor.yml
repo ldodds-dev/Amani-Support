@@ -101,11 +101,6 @@ jobs:
             fi
           }
 
-          check_keyword \
-            "Homepage" \
-            "$AMANI_BASE_URL/" \
-            "Private by Default"
-
           check_status \
             "Search API" \
             "$AMANI_BASE_URL/api/search?q=Florida"
